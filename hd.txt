@@ -226,3 +226,4 @@ CCTV5+,rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
 凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 凤凰资讯,https://epg.pw/stream/feef91f40b85dafbfec7b968db0c1fc20f8fafdbbef2dfd751cfbcfd51f6ea5d.m3u8
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
+翡翠台,http://208.110.73.236:8080/live/132/hls.m3u8
