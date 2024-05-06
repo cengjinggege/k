@@ -230,3 +230,4 @@ CCTV5+,rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
 翡翠台,https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
 翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
