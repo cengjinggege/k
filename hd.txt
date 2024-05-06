@@ -227,3 +227,5 @@ CCTV5+,rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
 凤凰资讯,https://epg.pw/stream/feef91f40b85dafbfec7b968db0c1fc20f8fafdbbef2dfd751cfbcfd51f6ea5d.m3u8
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
 翡翠台,http://208.110.73.236:8080/live/132/hls.m3u8
+翡翠台,https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
+翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
