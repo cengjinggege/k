@@ -229,13 +229,6 @@ CCTV5+,rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
 翡翠台,https://epg.pw/stream/6a5db861f69d8e928c116e919c45af99b1968d1bb200885b84f97fa9349224ca.m3u8
 纬来体育,rtmp://220.130.201.73/sat/tv721
 hbo hd,https://epg.pw/stream/45da6dd2e8207334bc7c9b0d6f688cdd11da8c1e3cc2d53302e641ec3372da58.m3u8
-江西卫视,http://183.204.13.237/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv1.m3u8
-江西都市,http://183.204.13.237/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv2.m3u8
-江西经视,http://183.204.13.237/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/liveve/tv_jxtv3_hd.m3u8
-江西影视,http://183.204.13.237/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv4.m3u8
-江西公共,http://183.204.13.237/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv5.m3u8
-江西少儿,http://183.204.13.237/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv6.m3u8
-江西新闻,http://183.204.13.237/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv7.m3u8
-江西移动,http://183.204.13.237/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv8.m3u8
-风尚购物,http://183.204.13.237/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_fsgw.m3u8
-陶瓷频道,http://183.204.13.237/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_taoci.m3u8
+凤凰资讯高清,http://113.64.145.93:8081/hls/36/index.m3u8
+凤凰卫视高清,http://113.64.145.93:8081/hls/37/index.m3u8
+凤凰香港高清,http://113.64.145.93:8081/hls/38/index.m3u8
